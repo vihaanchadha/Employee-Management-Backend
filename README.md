@@ -1,4 +1,4 @@
-# ReliaQuest's Entry-Level Java Challenge
+# Employee Management Backend Project
 
 Please keep the following in mind while working on this challenge:
 * Code implementations will not be graded for **correctness** but rather on practicality
